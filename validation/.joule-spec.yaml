@@ -1,0 +1,11 @@
+dataset:
+  id: 7fef1700-8c6f-4855-84b8-b19572709cb9
+  type: joule
+ignore:
+- .joule-spec.yaml
+- joule.config.yaml
+- .gitignore
+- .DS_Store
+- ~*
+- .*
+version: 1

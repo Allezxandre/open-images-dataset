@@ -1,0 +1,11 @@
+dataset:
+  id: cbff1e4c-47a6-46fc-bad9-d693c3895b02
+  type: joule
+ignore:
+- .joule-spec.yaml
+- joule.config.yaml
+- .gitignore
+- .DS_Store
+- ~*
+- .*
+version: 1
